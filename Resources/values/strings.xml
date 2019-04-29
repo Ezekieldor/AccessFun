@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">AccessFun</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">Android Studio</string>
+  <string name="nav_header_subtitle">android.studio@android.com</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="action_settings">Settings</string>
+  <string name="open_drawer">abrir</string>
+  <string name="close_drawer">fechar</string>
+  <string name="hello">Hello World, Click Me!</string>
+  <string name="title_evento_view">Hello World, Click Me!</string>
+  <string name="GoogleMapKey">AIzaSyC56w4LIor0UOmE228sAXZ4UuDVSVTxINA</string>
+
+  <string name="large_text">
+    "Material is the metaphor.\n\n"
+
+    "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+    "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+    "technologically advanced and open to imagination and magic.\n"
+    "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+
+  </string>
+</resources>

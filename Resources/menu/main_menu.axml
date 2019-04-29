@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single" xmlns:local="http://schemas.android.com/apk/res-auto">
+    <item
+      android:id="@+id/home"
+      android:title="Home" />
+    <item
+      android:id="@+id/meus_eventos"
+      android:title="Meus Eventos" />
+    <item
+      android:id="@+id/historico_eventos"
+      android:title="Histórico de Eventos" />
+    <item
+      android:id="@+id/configuracoes"
+      android:title="Configurações" />
+    <item
+      android:id="@+id/suporte"
+      android:title="Suporte" />
+    <item
+      android:id="@+id/sair"
+      android:title="Sair"/>
+  </group>
+</menu>
