@@ -1,0 +1,9 @@
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\bin\Debug\netstandard2.0\AccessFun.Core.deps.json
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\bin\Debug\netstandard2.0\AccessFun.Core.dll
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\bin\Debug\netstandard2.0\AccessFun.Core.pdb
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.AssemblyInfoInputs.cache
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.AssemblyInfo.cs
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.dll
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.pdb
+C:\Users\Ezequiel Rodrigues\Documents\AccessFun\AccessFun.Core\obj\Debug\netstandard2.0\AccessFun.Core.csprojAssemblyReference.cache
